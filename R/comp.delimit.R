@@ -1,3 +1,11 @@
+#' Title comp.delimit
+#'
+#' @param obj 
+#' @param alt 
+#' @param method 
+#'
+#' @return
+#' @export
 `comp.delimit` <- function(obj, alt, method="EM") {
 	gsp <- spec.list(obj)
 

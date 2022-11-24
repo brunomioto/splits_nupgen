@@ -10,3 +10,8 @@ License: GPL (>= 2)
 RoxygenNote: 7.1.2
 URL: https://github.com/brunomioto/splits_nupgen
 BugReports: https://github.com/brunomioto/splits_nupgen/issues
+Imports: 
+    graphics,
+    grDevices,
+    stats,
+    utils
