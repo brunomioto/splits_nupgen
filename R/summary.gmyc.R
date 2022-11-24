@@ -1,3 +1,11 @@
+#' Title summary.gmyc
+#'
+#' @param object 
+#' @param second.peak 
+#' @param ... 
+#'
+#' @return
+#' @export
 `summary.gmyc` <-
 function(object, second.peak=FALSE, ...) {
 	#res = result of GMYC
