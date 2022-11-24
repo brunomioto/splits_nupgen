@@ -1,0 +1,10 @@
+Package: splits_nupgen
+Version: 1.0-20
+Date: 2021-07-16
+Title: SPecies' LImits by Threshold Statistics 
+Author: Thomas Ezard, Tomochika Fujisawa and Tim Barraclough
+Maintainer: Thomas Ezard <T.Ezard@soton.ac.uk>
+Depends: R (>= 3.0.0), ape, MASS, paran
+Description: "splits" contains tools for delimiting species and automated taxonomy at multiple levels of biological organization (eg. DNA barcoding, morphometrics), both top-down (merging phylogenetic and phylogeographic methods) and bottom-up (single samples into >1 groups).
+License: GPL (>= 2)
+RoxygenNote: 7.1.2
