@@ -1,3 +1,12 @@
+#' Titlegmyc
+#'
+#' @param tr 
+#' @param method 
+#' @param interval 
+#' @param quiet 
+#'
+#' @return
+#' @export
 `gmyc` <-
 function(tr, method = "single", interval = c(0, 5), quiet = FALSE) {
 	#run GMYC

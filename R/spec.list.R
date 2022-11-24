@@ -1,3 +1,11 @@
+#' Title spec.list
+#'
+#' @param res 
+#' @param second.peak 
+#'
+#' @return
+#' @export
+
 `spec.list`<-
 function(res,second.peak=F) {
 	tr <- res$tr
