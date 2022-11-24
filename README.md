@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# splits_nupgen
+# splitsNupgen
 
 <!-- badges: start -->
 <!-- badges: end -->
@@ -11,7 +11,7 @@ want to use it on shiny!
 
 ## Installation
 
-You can install the development version of splits_nupgen from
+You can install the development version of splitsNupgen from
 [GitHub](https://github.com/) with:
 
 ``` r
